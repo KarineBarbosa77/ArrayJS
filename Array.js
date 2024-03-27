@@ -1,5 +1,5 @@
 
-var cores = [rosa, laranja, azul, verde, vermelho]
+var cores = ['rosa', 'laranja', 'azul', 'verde', 'vermelho']
 
 
 var corEscolhida = cores[Math.floor(Math.random() * cores.length)]
